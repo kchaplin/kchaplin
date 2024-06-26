@@ -1,4 +1,4 @@
-Currently my repo is private. Please message me with any inqueries!
+Currently my repo is private. Please message me with any inquiries!
 
 <!---
 kchaplin/kchaplin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
